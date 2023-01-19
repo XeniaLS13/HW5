@@ -10,3 +10,4 @@
 
 СДЕЛАТЬ МИНИМУМ ТРИ МЕТОДА
 
+[КОД](https://github.com/XeniaLS13/HW5/blob/main/Task1/Program.cs)
